@@ -18,6 +18,7 @@
 ### Dinosaur Run
 <img src="rest_dino.png">
 
-### Execution
-<video src="chrome_dino.mp4"></video>
+### End.
+
+
  
